@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b25faf3347ad284abb3c92d0a4d72e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ak47: {instanceID: 0}
+  - pompik: {instanceID: 0}
+  - m4: {instanceID: 0}
+  - negev: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
